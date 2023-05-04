@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Software and languages:
+### 💻 Software and languages:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" height="40" width="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br>
 
 
-### My Stats:
+### 🏆 My Stats:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jurxy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Jure's GitHub stats](https://github-readme-stats.vercel.app/api?username=jurxy&count_private=true&theme=radical&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
