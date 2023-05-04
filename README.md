@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning about Apache2 webservers and different distros of linux in general.
+- 🌐 Website: http://jure.ugo.si
 - 🔭 I’m currently working on school stuff
 <br>
 
