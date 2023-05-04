@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning about Apache2 webservers and different distros of linux in general.
 - 🔭 I’m currently working on school stuff
-
 <br>
 
 ---
 
-### Software abd languages:
+### Software and languages:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" height="40" width="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -36,7 +35,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
 <br>
 
 
