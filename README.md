@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning about Apache2 webservers and different distros of linux in general.
+- 🌱 I’m currently learning about networking and different distros of linux.
 - 🌐 Website: http://jure.ugo.si
 - 🔭 I’m currently working on school stuff
 <br>
