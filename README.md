@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 
 ### 🏆 My Stats:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jurxy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurinator&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Jure's GitHub stats](https://github-readme-stats.vercel.app/api?username=jurxy&count_private=true&theme=radical&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jure's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jurinator&count_private=true&theme=radical&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
